@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-plugin-outline",
+  "description": "Generate a outline for a page",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "homepage": "https://github.com/codingbelief/gitbook-plugin-outline",
+  "keywords": [
+    "toc","outline"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codingbelief/gitbook-plugin-outline.git"
+  },
+  "dependencies": {
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/codingbelief/gitbook-plugin-outline/issues"
+  }
+}
