@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-outline",
   "description": "Generate a outline for a page",
   "main": "index.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "gitbook": ">=3.0.0"
   },
