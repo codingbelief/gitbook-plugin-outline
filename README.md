@@ -2,7 +2,7 @@
 
 Generate a h2 outline for a page.
 
-![](./outline.png)
+![](https://raw.githubusercontent.com/codingbelief/gitbook-plugin-outline/master/outline.png)
 
 Add it to your `book.json` with a basic configuration:
 
